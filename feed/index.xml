@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ERIC WILLIAMS</title>
+	<atom:link href="https://ericw-cg.github.io/StaticSite/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ericw-cg.github.io/StaticSite/</link>
+	<description>CG &#124; Production Art</description>
+	<lastBuildDate>Fri, 26 Aug 2022 11:07:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>https://ericw-cg.github.io/StaticSite/wp-content/uploads/2018/08/cropped-Pandy-32x32.png</url>
+	<title>ERIC WILLIAMS</title>
+	<link>https://ericw-cg.github.io/StaticSite/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hexagon Grid</title>
+		<link>https://ericw-cg.github.io/StaticSite/hexagon-grid/</link>
+		
+		<dc:creator><![CDATA[Eric Williams]]></dc:creator>
+		<pubDate>Fri, 12 Aug 2022 09:35:16 +0000</pubDate>
+				<category><![CDATA[Journal]]></category>
+		<guid isPermaLink="false">https://ericw-cg.github.io/StaticSite/?p=3867</guid>
+
+					<description><![CDATA[Initial layout code for hexagon grid building and size calculations. There are a few variables in scss that can be the focus to change the grid but I&#8217;m not sure that scss, or whatever type the variable is, can be modified directly. It&#8217;s likely that all calculations done in scss must be moved over to javascript.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Masonry Grid Calculated</title>
+		<link>https://ericw-cg.github.io/StaticSite/masonry-grid-calculated/</link>
+		
+		<dc:creator><![CDATA[Eric Williams]]></dc:creator>
+		<pubDate>Thu, 11 Aug 2022 16:36:34 +0000</pubDate>
+				<category><![CDATA[Journal]]></category>
+		<guid isPermaLink="false">https://ericw-cg.github.io/StaticSite/?p=3856</guid>
+
+					<description><![CDATA[The masonry grid now adjusts column and row count and span resolution on window resize so all the images fit and scale nicely while maintaining square grid spans. Apparently Chrome and Edge have some overlap issues and code may need some adjustments. Maybe try grid auto rows instead of grid template rows? Problem solved by removing grid from the list item, so no layout type flex or grid, and adding list-style-type: none to remove list bullets. Sample code can be found here: gist link maybe?]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>A blog post</title>
+		<link>https://ericw-cg.github.io/StaticSite/a-blog-post/</link>
+		
+		<dc:creator><![CDATA[Eric Williams]]></dc:creator>
+		<pubDate>Sun, 07 Aug 2022 07:30:44 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://ericw-cg.github.io/StaticSite/?p=3851</guid>
+
+					<description><![CDATA[]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Code Stand in Post</title>
+		<link>https://ericw-cg.github.io/StaticSite/code-stand-in-post/</link>
+		
+		<dc:creator><![CDATA[Eric Williams]]></dc:creator>
+		<pubDate>Thu, 01 Apr 2021 12:22:34 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://ewcg001.loca.lt/?p=2768</guid>
+
+					<description><![CDATA[Swapping syntax highlighters screwed up formatting for all code posts. Leaving this here so not found page doesn&#8217;t pop up. Will re-post other code if I fix formatting. Exception up = new Exception("Something is really wrong on this post."); throw up;]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
