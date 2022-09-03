@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Eric Williams &#8211; ERIC WILLIAMS</title>
+	<atom:link href="https://ericw-cg.github.io/StaticSite/author/ericw_cg/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ericw-cg.github.io/StaticSite/</link>
+	<description>CG &#124; Production Art</description>
+	<lastBuildDate>Thu, 09 Sep 2021 03:05:24 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>https://ericw-cg.github.io/StaticSite/wp-content/uploads/2018/08/cropped-Pandy-32x32.png</url>
+	<title>Eric Williams &#8211; ERIC WILLIAMS</title>
+	<link>https://ericw-cg.github.io/StaticSite/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Code Stand in Post</title>
+		<link>https://ericw-cg.github.io/StaticSite/code-stand-in-post/</link>
+		
+		<dc:creator><![CDATA[Eric Williams]]></dc:creator>
+		<pubDate>Thu, 01 Apr 2021 12:22:34 +0000</pubDate>
+				<category><![CDATA[Code]]></category>
+		<guid isPermaLink="false">http://ewcg001.loca.lt/?p=2768</guid>
+
+					<description><![CDATA[Swapping syntax highlighters screwed up formatting for all code posts. Leaving this here so not found page doesn&#8217;t pop up. Will re-post other code if I fix formatting.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
