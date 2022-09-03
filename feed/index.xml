@@ -12,7 +12,7 @@
 	<atom:link href="https://ericw-cg.github.io/StaticSite/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ericw-cg.github.io/StaticSite/</link>
 	<description>CG &#124; Production Art</description>
-	<lastBuildDate>Thu, 09 Sep 2021 03:05:24 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 03 Sep 2022 04:43:48 +0000</lastBuildDate>
 	<language>en</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -36,7 +36,7 @@
 				<category><![CDATA[Code]]></category>
 		<guid isPermaLink="false">http://ewcg001.loca.lt/?p=2768</guid>
 
-					<description><![CDATA[Swapping syntax highlighters screwed up formatting for all code posts. Leaving this here so not found page doesn&#8217;t pop up. Will re-post other code if I fix formatting.]]></description>
+					<description><![CDATA[Swapping syntax highlighters screwed up formatting for all code posts. Leaving this here so not found page doesn&#8217;t pop up. Will re-post other code if I fix formatting. Exception up = new Exception(&#8220;Something is really wrong on this post.&#8221;); throw up;]]></description>
 		
 		
 		
